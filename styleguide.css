@@ -1,0 +1,9 @@
+:root {
+  --gray-4: rgba(189, 189, 189, 1);
+  --text-m-font-family: "Quicksand-Medium", Helvetica;
+  --text-m-font-size: 16px;
+  --text-m-font-style: normal;
+  --text-m-font-weight: 500;
+  --text-m-letter-spacing: 0.08px;
+  --text-m-line-height: normal;
+}
