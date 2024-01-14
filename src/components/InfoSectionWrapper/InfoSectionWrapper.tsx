@@ -57,7 +57,7 @@ export const InfoSectionWrapper = ({ className }: Props): JSX.Element => {
     }}
     >
       <div>
-      <img className="icon-phone" alt="Icon phone" src="/img/icon-phone.png" />
+      <img className="icon-phone" alt="Icon phone" src="https://svgshare.com/i/11vD.svg" />
       </div>
       <div style={{ textAlign: 'center', color: 'white', fontSize: '25px', fontFamily: 'Rubik', paddingTop:'15px' }}>
   90 second delay

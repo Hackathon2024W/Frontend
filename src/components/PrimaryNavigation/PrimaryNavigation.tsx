@@ -17,11 +17,11 @@ export const PrimaryNavigation: React.FC<PrimaryNavigationProps> = ({ setOpenTim
   return (
     <>
       <div className="navigation-container">
-        <img className="primary-navigation" alt="Primary navigation" src="/img/primary-navigation.svg" />
+        <img className="primary-navigation" alt="Primary navigation" src="https://svgur.com/i/11wZ.svg" />
         <div className="overlay-row">
-          <img className="overlay-navigation prompt-navigation" alt="Prompt navigation" src="/src/img/Prompt.svg" onClick={() => setOpenPrompt(true)}/>
-          <img className="overlay-navigation timer-navigation" alt="Timer navigation" src="/src/img/Timer.svg" onClick={() => setOpenTime(true)}/>
-          <img className="overlay-navigation help-navigation" alt="Help navigation" src="/src/img/Help.svg" onClick={() => setOpenHelp(true)}/>
+          <img className="overlay-navigation prompt-navigation" alt="Prompt navigation" src="https://svgshare.com/i/11ud.svg" onClick={() => setOpenPrompt(true)}/>
+          <img className="overlay-navigation timer-navigation" alt="Timer navigation" src="https://svgshare.com/i/11w3.svg" onClick={() => setOpenTime(true)}/>
+          <img className="overlay-navigation help-navigation" alt="Help navigation" src="https://svgshare.com/i/11w4.svg" onClick={() => setOpenHelp(true)}/>
         </div>
       </div>
     </>
