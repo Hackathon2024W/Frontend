@@ -1,17 +1,6 @@
 <svg width="404" height="122" viewBox="0 0 404 122" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_4_262)">
 <rect x="12" y="4" width="380" height="98" rx="30" fill="#52307D" shape-rendering="crispEdges"/>
-<path d="M124.5 54.125C125.135 54.125 125.65 53.6212 125.65 53C125.65 52.3788 125.135 51.875 124.5 51.875C123.865 51.875 123.35 52.3788 123.35 53C123.35 53.6212 123.865 54.125 124.5 54.125Z" fill="black" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M113 54.125C113.635 54.125 114.15 53.6212 114.15 53C114.15 52.3788 113.635 51.875 113 51.875C112.365 51.875 111.85 52.3788 111.85 53C111.85 53.6212 112.365 54.125 113 54.125Z" fill="black" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M101.5 54.125C102.135 54.125 102.65 53.6212 102.65 53C102.65 52.3788 102.135 51.875 101.5 51.875C100.865 51.875 100.35 52.3788 100.35 53C100.35 53.6212 100.865 54.125 101.5 54.125Z" fill="black" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M113 75.5C125.702 75.5 136 65.4263 136 53C136 40.5736 125.702 30.5 113 30.5C100.297 30.5 90 40.5736 90 53C90 57.0982 91.12 60.9405 93.077 64.25L91.15 74.375L101.5 72.49C104.883 74.4043 108.811 75.5 113 75.5Z" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M212.889 55.25H201.5V44" stroke="white" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M185.556 33.875L190.111 30.5" stroke="white" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M217.444 33.875L212.889 30.5" stroke="white" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M201.5 75.5C212.822 75.5 222 66.4339 222 55.25C222 44.0662 212.822 35 201.5 35C190.178 35 181 44.0662 181 55.25C181 66.4339 190.178 75.5 201.5 75.5Z" stroke="white" stroke-width="5.145" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M290.5 77C303.479 77 314 66.2547 314 53C314 39.7452 303.479 29 290.5 29C277.521 29 267 39.7452 267 53C267 66.2547 277.521 77 290.5 77Z" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M283.45 45.8C283.45 37.3999 296.375 37.4 296.375 45.8C296.375 51.8 290.5 50.5998 290.5 57.7998" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M290.5 67.424L290.524 67.3974" stroke="white" stroke-width="4.6305" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <defs>
 <filter id="filter0_d_4_262" x="0" y="0" width="404" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

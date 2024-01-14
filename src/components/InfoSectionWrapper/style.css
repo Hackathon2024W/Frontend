@@ -1,9 +1,10 @@
 .info-section-wrapper {
   background-color: #613f8c;
-  border-radius: 50px;
+  border-radius: 50;
   height: 235px;
   position: relative;
   width: 380px;
+  border: 4px solid black;
 }
 
 .info-section-wrapper .icon-phone {

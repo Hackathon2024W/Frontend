@@ -1,7 +1,23 @@
-.primary-navigation {
-  height: 122px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 404px;
+.navigation-container {
+  position: relative;
+  /* Set the size of the container if needed, e.g., width and height */
 }
+
+.primary-navigation {
+  /* Style as needed, this image will be at the base */
+}
+
+.overlay-row {
+  position: absolute;
+  top: 20%; /* Adjust this as needed */
+  left: 10%; /* Adjust this as needed */
+  display: flex; /* Aligns the children in a row */
+  justify-content: space-between; /* Spaces the children evenly */
+  width: 80%; /* Set the width of the overlay row */
+}
+
+.overlay-navigation {
+  /* Apply any common styling for the overlay images */
+}
+
+

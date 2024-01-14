@@ -99,20 +99,22 @@
   font-family: "Rubik", Helvetica;
   font-size: 20px;
   font-weight: 500;
-  left: 101px;
+  left: 20;
   letter-spacing: 0.1px;
   line-height: normal;
   position: absolute;
-  top: 76px;
+  top: 40px;
 }
 
 .home .profile-picture {
-  height: 56px;
   left: 304px;
   object-fit: cover;
   position: absolute;
   top: 47px;
-  width: 56px;
+  width: 60px;
+  height: 60px;
+  border-radius: 35;
+  border: 2px solid black;
 }
 
 .home .text-wrapper-2 {
@@ -139,4 +141,28 @@
   position: absolute;
   top: 51px;
   white-space: nowrap;
+}
+
+.home .time-picker {
+  height: 56px;
+  left: 45px;
+  position: absolute;
+  top: 120px;
+  width: 310px;
+}
+
+.home .TimeDrawer {
+  height: 56px;
+  left: 45px;
+  position: absolute;
+  top: 120px;
+  width: 310px;
+}
+
+.home .PromptDrawer {
+  height: 56px;
+  left: 45px;
+  position: absolute;
+  top: 120px;
+  width: 310px;
 }
