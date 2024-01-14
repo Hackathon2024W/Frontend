@@ -59,22 +59,12 @@ export const Home = (): JSX.Element => {
   const prompts = getCurrentPrompts();
 
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
-  const [anchorEl2, setAnchorEl2] = React.useState<null | HTMLElement>(null);
-  
   const open = Boolean(anchorEl);
-  const open2 = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
     setAnchorEl(event.currentTarget);
   };
-  const handleClick2 = (event: React.MouseEvent<HTMLButtonElement>) => {
-    setAnchorEl2(event.currentTarget);
-  };
   const handleClose = () => {
     setAnchorEl(null);
-  };
-
-  const handleClose2 = () => {
-    setAnchorEl2(null);
   };
 
   function getCurrentPrompts(): string[] {
@@ -269,19 +259,29 @@ export const Home = (): JSX.Element => {
             <UpcomingTable />
             <p className="call-min"></p>
           </div>
-            <button
-            onClick={handleClick2}
-            />
-            Logout
+
           <img
             className="profile-picture"
             alt="Profile picture"
             src={localStorage.getItem("icon") || ""}
           />
-          </div>
 
+          <button
+            className="icon-button"
+            onClick={() => {
+              localStorage.setItem("icon", "")
+              localStorage.setItem("user", "")
+              localStorage.setItem("phoneNumber", "")
+              window.location.reload();
+          }
+          }
+          >
+            Log Out
+          </button>
+          
           <div className="text-wrapper-2">Ready to Leave?</div>
           <div className="text-wrapper-3">Welcome</div>
+        </div>
       </div>
     </>
   );

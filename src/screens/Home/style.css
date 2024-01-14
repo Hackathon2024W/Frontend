@@ -166,3 +166,15 @@
   top: 120px;
   width: 310px;
 }
+
+.home .icon-button {
+  height: auto;
+  background-color: #8C7D9E;
+  color: white;
+  border: none;
+  width: auto;
+  border-radius: 10px;
+  
+  align-self: right;
+  padding: none;
+}
